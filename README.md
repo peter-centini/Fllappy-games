@@ -2,7 +2,7 @@
 
 floppy Bird game javascript 
 
-## Descprition francais jeux de floppy Bird 
+## Descprition francaise du  jeux  floppy Bird 
  Game réaliser en HTLM et javascript
  
 
